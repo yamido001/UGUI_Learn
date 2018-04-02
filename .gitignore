@@ -1,0 +1,6 @@
+proj_unity/Library/
+proj_unity/Temp/
+proj_unity/obj/
+*.csproj
+*.sln
+*.userprefs
